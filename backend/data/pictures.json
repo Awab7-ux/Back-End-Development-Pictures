@@ -1,0 +1,12 @@
+[
+  {"id": 1, "pic_url": "https://picsum.photos/id/1011/1200/800", "event_country": "United States", "event_state": "California", "event_city": "San Francisco", "event_date": "2024-05-18"},
+  {"id": 2, "pic_url": "https://picsum.photos/id/1015/1200/800", "event_country": "Canada", "event_state": "British Columbia", "event_city": "Vancouver", "event_date": "2024-06-02"},
+  {"id": 3, "pic_url": "https://picsum.photos/id/1016/1200/800", "event_country": "Japan", "event_state": "Tokyo", "event_city": "Tokyo", "event_date": "2024-07-12"},
+  {"id": 4, "pic_url": "https://picsum.photos/id/1020/1200/800", "event_country": "France", "event_state": "Ile-de-France", "event_city": "Paris", "event_date": "2024-08-21"},
+  {"id": 5, "pic_url": "https://picsum.photos/id/1024/1200/800", "event_country": "Australia", "event_state": "New South Wales", "event_city": "Sydney", "event_date": "2024-09-07"},
+  {"id": 6, "pic_url": "https://picsum.photos/id/1035/1200/800", "event_country": "Italy", "event_state": "Lazio", "event_city": "Rome", "event_date": "2024-09-29"},
+  {"id": 7, "pic_url": "https://picsum.photos/id/1039/1200/800", "event_country": "Brazil", "event_state": "Rio de Janeiro", "event_city": "Rio de Janeiro", "event_date": "2024-10-11"},
+  {"id": 8, "pic_url": "https://picsum.photos/id/1043/1200/800", "event_country": "United Kingdom", "event_state": "England", "event_city": "London", "event_date": "2024-10-26"},
+  {"id": 9, "pic_url": "https://picsum.photos/id/1050/1200/800", "event_country": "Mexico", "event_state": "Jalisco", "event_city": "Guadalajara", "event_date": "2024-11-03"},
+  {"id": 10, "pic_url": "https://picsum.photos/id/1060/1200/800", "event_country": "South Africa", "event_state": "Western Cape", "event_city": "Cape Town", "event_date": "2024-11-19"}
+]
