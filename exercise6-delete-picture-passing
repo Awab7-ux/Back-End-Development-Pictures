@@ -1,0 +1,12 @@
+============================= test session starts ==============================
+platform linux -- Python 3.14.2, pytest-9.2.0, pluggy-1.7.0 -- /usr/local/python/3.14.2/bin/python3
+cachedir: .pytest_cache
+rootdir: /workspaces/Back-End-Development-Pictures
+configfile: pytest.ini
+plugins: platformdirs-4.14.0, anyio-4.15.1
+collecting ... collected 12 items / 10 deselected / 2 selected
+
+tests/test_api.py::test_update_picture_by_id PASSED                      [ 50%]
+tests/test_api.py::test_delete_picture_by_id PASSED                      [100%]
+
+======================= 2 passed, 10 deselected in 0.17s =======================

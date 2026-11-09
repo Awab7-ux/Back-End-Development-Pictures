@@ -1,0 +1,16 @@
+============================= test session starts ==============================
+platform linux -- Python 3.14.2, pytest-9.2.0, pluggy-1.7.0 -- /usr/local/python/3.14.2/bin/python3
+cachedir: .pytest_cache
+rootdir: /workspaces/Back-End-Development-Pictures
+configfile: pytest.ini
+plugins: platformdirs-4.14.0, anyio-4.15.1
+collecting ... collected 12 items / 6 deselected / 6 selected
+
+tests/test_api.py::test_data_contains_10_pictures PASSED                 [ 16%]
+tests/test_api.py::test_get_picture PASSED                               [ 33%]
+tests/test_api.py::test_get_pictures_check_content_type_equals_json PASSED [ 50%]
+tests/test_api.py::test_get_picture_by_id PASSED                         [ 66%]
+tests/test_api.py::test_pictures_json_is_not_empty PASSED                [ 83%]
+tests/test_api.py::test_get_picture_by_id_404 PASSED                     [100%]
+
+======================= 6 passed, 6 deselected in 0.11s ========================
